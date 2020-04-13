@@ -8,7 +8,7 @@ class Home extends  Component{
 
     render() {
         return (
-            <div className="container-fluid">
+            <div className="container">
                 <h1>Hello! World</h1>
                 <p>I am not from this world.</p>
             </div>
